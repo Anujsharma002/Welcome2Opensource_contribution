@@ -11,4 +11,4 @@
 
 5.replace 31 line this <sub><b>Anuj sharma</b></sub> with <sub><b>< your name ></b></sub>.
 
-I will merge the pull request .
+I will merge the pull request.
