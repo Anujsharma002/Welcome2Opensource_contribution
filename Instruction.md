@@ -5,7 +5,7 @@
 
 2.Fork the repositry.
 
-3.replace in line 28 https//:github.com/<user_name>.
+3.replace  line 28  this   with https//:github.com/<user_name>.
 
 4.replace in line 29 alt = <user_name>.
 
