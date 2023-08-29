@@ -5,10 +5,10 @@
 
 2.Fork the repositry.
 
-3.replace  line 28  this   with https//:github.com/<user_name>.
+3.replace line 28  this https//:github.com/Anujsharma002 with https//:github.com/<user_name>.
 
-4.replace in line 29 alt = <user_name>.
+4.replace line 29 this alt = Anujsharma0002 with this alt = <user_name>.
 
-5.replace in line <sub><b><user_name></b></sub>.
+5.replace 31 line this <sub><b>Anuj sharma</b></sub> with <sub><b>< your name ></b></sub>.
 
 I will merge the pull request .
