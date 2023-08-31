@@ -1,6 +1,8 @@
 # Instructions
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<div>Some Instruction in order to make a pull request<div/>
+
 1.star the repositry.
 
 2.Fork the repositry.
