@@ -11,7 +11,7 @@
 </p>
   
 <p align="center">
-  <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
+  <img src= "https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47cfmg9k336gxuf28tljn45tb1ebaywyyhnqq6h8en&ep=v1_gifs_search&rid=200w.webp&ct=g">
 </p>
 
 ## Contributors ✨
