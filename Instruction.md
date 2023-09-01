@@ -5,6 +5,7 @@
 </div>
 <h4>Add column :</h4> 
              1.body
+            
              2.location 
 
 1.star the repositry.
