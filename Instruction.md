@@ -3,7 +3,7 @@
 <div>
 <h3>Some Instruction in order to make a pull request<h3/>
 </div>
-Add column "<tbody>
+Add column "
         <tr>
             <td align="center">
                 <a href="https://github.com/Anujsharma002">
@@ -13,7 +13,7 @@ Add column "<tbody>
                 </a>
             </td>
         </tr>
-    </tbody>"
+    "
 
 1.star the repositry.
 
