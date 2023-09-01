@@ -3,7 +3,8 @@
 <div>
 <h3>Some Instruction in order to make a pull request<h3/>
 </div>
-Add column : 1.body
+<h2>Add column :</h2> 
+             1.body
              2.location 
 
 1.star the repositry.
