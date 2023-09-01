@@ -6,7 +6,7 @@
 <h4>Add column :</h4> 
              
                  href="https://github.com/User_name">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Name"/
+                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Name"/>
                     <sub><b>Name</b></sub>
               
 1.star the repositry.
