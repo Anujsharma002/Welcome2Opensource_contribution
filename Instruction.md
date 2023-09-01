@@ -3,17 +3,8 @@
 <div>
 <h3>Some Instruction in order to make a pull request<h3/>
 </div>
-Add column "
-        <tr>
-            <td align="center">
-                <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
-                    <br />
-                    <sub><b>Anuj sharma</b></sub>
-                </a>
-            </td>
-        </tr>
-    "
+Add column : 1.body
+             2.location 
 
 1.star the repositry.
 
