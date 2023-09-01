@@ -6,10 +6,10 @@
 <h4>Add column :</h4> 
              
 <
-                <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
+                <a href="https://github.com/User_name">
+                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Name"/>
                     <br />
-                    <sub><b>Anuj sharma</b></sub>
+                    <sub><b>Name</b></sub>
               
 1.star the repositry.
 
