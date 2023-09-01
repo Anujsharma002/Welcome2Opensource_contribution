@@ -5,18 +5,12 @@
 </div>
 <h4>Add column :</h4> 
              
-<tbody>
-        <tr>
-            <td align="center">
+<
                 <a href="https://github.com/Anujsharma002">
                     <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
                     <br />
                     <sub><b>Anuj sharma</b></sub>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-    
+              
 1.star the repositry.
 
 2.Fork the repositry.
